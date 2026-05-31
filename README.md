@@ -48,7 +48,7 @@ Pen states:
 ## Airplane
 
 <p align="center">
-  <img src="results/airplane.gif" width="800">
+  <img src="results/airplane.gif" width="1000">
 </p>
 
 ---
@@ -56,7 +56,7 @@ Pen states:
 ## Apple
 
 <p align="center">
-  <img src="results/apple.gif" width="800">
+  <img src="results/apple.gif" width="1000">
 </p>
 
 ---
@@ -64,14 +64,14 @@ Pen states:
 ## Axe
 
 <p align="center">
-  <img src="results/axe.gif" width="800">
+  <img src="results/axe.gif" width="1000">
 </p>
 ---
 
 ## banana
 
 <p align="center">
-  <img src="results/banana.gif" width="500">
+  <img src="results/banana.gif" width="1000">
 </p>
 
 ---
@@ -79,7 +79,7 @@ Pen states:
 ## Clock
 
 <p align="center">
-  <img src="results/clock.gif" width="500">
+  <img src="results/clock.gif" width="1000">
 </p>
 
 ---
@@ -87,7 +87,7 @@ Pen states:
 ## Fish
 
 <p align="center">
-  <img src="results/fish.gif" width="500">
+  <img src="results/fish.gif" width="1000">
 </p>
 
 ---
@@ -95,7 +95,7 @@ Pen states:
 ## Tree
 
 <p align="center">
-  <img src="results/tree.gif" width="500">
+  <img src="results/tree.gif" width="1000">
 </p>
 
 ---
@@ -103,7 +103,7 @@ Pen states:
 ## Bicycle
 
 <p align="center">
-  <img src="results/bicycle.gif" width="500">
+  <img src="results/bicycle.gif" width="1000">
 </p>
 
 ---
@@ -111,7 +111,7 @@ Pen states:
 ## Bed
 
 <p align="center">
-  <img src="results/bed.gif" width="500">
+  <img src="results/bed.gif" width="1000">
 </p>
 
 ---
@@ -119,7 +119,7 @@ Pen states:
 ## car
 
 <p align="center">
-  <img src="results/car.gif" width="500">
+  <img src="results/car.gif" width="1000">
 </p>
 
 ---

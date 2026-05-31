@@ -141,7 +141,7 @@ Complete derivations, architecture explanation, MDN formulation, and transformer
 
 ---
 
-# Pretrained Model
+# Model
 
 Download trained model weights:
 

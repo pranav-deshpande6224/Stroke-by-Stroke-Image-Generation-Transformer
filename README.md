@@ -8,6 +8,15 @@ Run the project directly in Google Colab:
 
 ---
 
+# Handwritten Report
+
+Complete derivations, architecture explanation, MDN formulation, and transformer implementation details:
+
+📄 https://drive.google.com/file/d/1zn1ALvjiMlGd_OabT7pdogWxcDmchW7w/view?usp=drive_link
+
+---
+
+
 ## Introduction
 
 This project implements a class-conditioned sketch generation model capable of generating hand-drawn sketches stroke-by-stroke for multiple object categories.
@@ -129,14 +138,6 @@ Pen states:
 <p align="center">
   <img src="results/car.gif" width="1000">
 </p>
-
----
-
-# Handwritten Report
-
-Complete derivations, architecture explanation, MDN formulation, and transformer implementation details:
-
-📄 https://drive.google.com/file/d/1zn1ALvjiMlGd_OabT7pdogWxcDmchW7w/view?usp=drive_link
 
 ---
 

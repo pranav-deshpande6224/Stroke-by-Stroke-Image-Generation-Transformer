@@ -48,7 +48,7 @@ Pen states:
 ## Airplane
 
 <p align="center">
-  <img src="assets/airplane.gif" width="500">
+  <img src="results/airplane.gif" width="800">
 </p>
 
 ---
@@ -56,55 +56,38 @@ Pen states:
 ## Apple
 
 <p align="center">
-  <img src="assets/apple.gif" width="500">
+  <img src="results/apple.gif" width="800">
 </p>
 
 ---
 
-## Car
+## Axe
 
 <p align="center">
-  <img src="assets/car.gif" width="500">
+  <img src="results/axe.gif" width="800">
+</p>
+---
+
+## banana
+
+<p align="center">
+  <img src="results/banana.gif" width="500">
 </p>
 
 ---
 
-## Cat
+## Clock
 
 <p align="center">
-  <img src="assets/cat.gif" width="500">
+  <img src="results/clock.gif" width="500">
 </p>
 
 ---
 
-## Dog
+## Fish
 
 <p align="center">
-  <img src="assets/dog.gif" width="500">
-</p>
-
----
-
-## Person
-
-<p align="center">
-  <img src="assets/person.gif" width="500">
-</p>
-
----
-
-## Bicycle
-
-<p align="center">
-  <img src="assets/bicycle.gif" width="500">
-</p>
-
----
-
-## House
-
-<p align="center">
-  <img src="assets/house.gif" width="500">
+  <img src="results/fish.gif" width="500">
 </p>
 
 ---
@@ -112,24 +95,41 @@ Pen states:
 ## Tree
 
 <p align="center">
-  <img src="assets/tree.gif" width="500">
+  <img src="results/tree.gif" width="500">
 </p>
 
 ---
 
-## Bird
+## Bicycle
 
 <p align="center">
-  <img src="assets/bird.gif" width="500">
+  <img src="results/bicycle.gif" width="500">
 </p>
 
 ---
+
+## Bed
+
+<p align="center">
+  <img src="results/bed.gif" width="500">
+</p>
+
+---
+
+## car
+
+<p align="center">
+  <img src="results/car.gif" width="500">
+</p>
+
+---
+
 
 # Google Colab
 
 Run the project directly in Google Colab:
 
-🔗 PASTE_COLAB_LINK_HERE
+🔗 https://drive.google.com/file/d/1aezX3VWMCNFk0ACKBxrDmsffJzXBcRz7/view?usp=drive_link
 
 ---
 
@@ -137,7 +137,7 @@ Run the project directly in Google Colab:
 
 Complete derivations, architecture explanation, MDN formulation, and transformer implementation details:
 
-📄 PASTE_HANDWRITTEN_REPORT_LINK
+📄 https://drive.google.com/file/d/1zn1ALvjiMlGd_OabT7pdogWxcDmchW7w/view?usp=drive_link
 
 ---
 
@@ -145,7 +145,7 @@ Complete derivations, architecture explanation, MDN formulation, and transformer
 
 Download trained model weights:
 
-📦 PASTE_MODEL_LINK_HERE
+📦 https://drive.google.com/file/d/1hhInijG1OUTS-9F4ggHCOMnkqXWvyVqr/view?usp=drive_link
 
 ---
 
@@ -264,10 +264,16 @@ During inference:
 This enables the model to generate sketches stroke-by-stroke in an autoregressive manner.
 
 ---
+## GPU
+* The GPU used here is A100 Rented From Jarvis LABS
+
+---
 
 ## Author
 
 **Pranav Deshpande**
 IIT Jodhpur
-Deep Learning • Generative AI • Sequential Modeling
+* Deep Learning 
+* Generative AI 
+* Sequential Modeling
 

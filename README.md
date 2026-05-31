@@ -1,5 +1,13 @@
 # Class-Conditioned Sketch Generation using Transformer and Mixture Density Networks
 
+# Google Colab
+
+Run the project directly in Google Colab:
+
+🔗 https://drive.google.com/file/d/1aezX3VWMCNFk0ACKBxrDmsffJzXBcRz7/view?usp=drive_link
+
+---
+
 ## Introduction
 
 This project implements a class-conditioned sketch generation model capable of generating hand-drawn sketches stroke-by-stroke for multiple object categories.
@@ -121,15 +129,6 @@ Pen states:
 <p align="center">
   <img src="results/car.gif" width="1000">
 </p>
-
----
-
-
-# Google Colab
-
-Run the project directly in Google Colab:
-
-🔗 https://drive.google.com/file/d/1aezX3VWMCNFk0ACKBxrDmsffJzXBcRz7/view?usp=drive_link
 
 ---
 
